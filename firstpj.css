@@ -1,0 +1,41 @@
+.main{
+    background-color: rgb(246, 246, 246);
+    padding: 5px;
+    margin: 50px;
+    border-radius: 10px;
+    
+    
+
+
+}
+.first{
+    background-color: rgb(106, 106, 190);
+    color: white;
+    padding: 9px;
+    border-radius: 10px;
+   
+    
+
+}
+
+.container{
+    display: flex;
+    margin: 50px;
+    padding: 5px;
+}
+
+.background-image{
+    background-image: url('./swis.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.P{
+    color: black;
+    background-color: aliceblue;
+}
+.please-name{
+    color: white;
+}
